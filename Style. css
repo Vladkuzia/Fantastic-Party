@@ -1,0 +1,65 @@
+body {
+    font-family: sans-serif;
+}
+header b {
+background-color: lightblue;
+color: rgb(233, 17, 17);
+font-size: 20px;
+}
+header {
+    background-color: lightblue;
+}
+header img {
+    height: 100px;
+    width: 100px;
+}
+header a {
+    background-color: lightblue;
+    text-decoration: none;
+}
+main {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+h1 {
+    color: rgb(243, 94, 243);
+    border-radius: 30px;
+    border: 5px solid black ;
+    padding: 10px;
+    margin: 10px;
+}
+
+h2 {
+    color: coral;
+    font-size: 30px;
+}
+.w {
+    text-decoration: none;
+    border: 5px solid darkcyan;
+    padding: 10px;
+    margin: 4px;
+}
+footer p {
+    border: 3px solid greenyellow;
+    border-radius: 3px;
+    padding: 1px;
+    margin:3px;
+}
+nav {
+border: 5px solid rgb(255, 102, 0);
+margin: 9px;
+padding: 9px;
+}
+nav a {
+    text-decoration: none;
+    margin: 9px;
+    font-size: 30px;
+    color: blue;
+}
+.q {
+     border: 6px solid blue;
+    border-radius: 20px;
+    padding: 10px;
+    margin:10px;
+}
+
